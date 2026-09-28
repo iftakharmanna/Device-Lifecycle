@@ -28,6 +28,6 @@ Tracking one fictional device through its full lifecycle to demonstrate IT asset
 
 **Replacement/Retirement:** After just over three years in service, the device reached the end of its standard hardware refresh cycle and its warranty had recently expired. As part of the retirement process, the laptop was collected, company data was backed up per data handling policy, and the device was wiped to factory settings. Asset record updated to reflect "Retired" status, retirement date logged, and the device removed from active device management enrollment. Serial number retained in inventory records for audit purposes. A replacement device was issued to Jammy P. to continue their role without disruption.
 
-## Lessons Noted
+## Notes
 
 Retiring hardware on a defined refresh cycle, rather than waiting for failure, reduces the risk of performance issues and unsupported/out-of-warranty devices remaining in active use.
