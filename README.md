@@ -8,7 +8,7 @@ Show a structured, documented approach to device lifecycle management, from init
 
 ## Lifecycle Documentation
 
-See [laptop-lifecycle.md](laptop-lifecycle.md) for the full asset record and lifecycle breakdown.
+See [laptop-lifecycle.md](Device-Lifecycle.md) for the full asset record and lifecycle breakdown.
 
 ## Notes
 
